@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Leave Quota - Dotify (DDT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7aa23710-3e0d-47e4-9a82-c0c654025d92</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>e4333be4-9ddc-485d-8d24-425e37b48da4</id>
+      <masked>false</masked>
+      <name>n_defaultQuota</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>0a799114-c36d-4f1d-8933-e8ff999c6f8f</id>
+      <masked>false</masked>
+      <name>n_balancePolicy</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>828612b8-9b68-40d7-a144-7d174a05436e</id>
+      <masked>false</masked>
+      <name>n_carryOver</name>
+   </variable>
+   <variable>
+      <defaultValue>'Employee Type'</defaultValue>
+      <description></description>
+      <id>c65cf1fe-6ce1-48cf-9530-9db660af1c61</id>
+      <masked>false</masked>
+      <name>t_result</name>
+   </variable>
+</TestCaseEntity>
