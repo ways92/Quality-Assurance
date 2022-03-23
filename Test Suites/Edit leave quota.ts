@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Edit leave quota</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e23c9ecf-d9c8-4933-9bcd-a5021c389952</testSuiteGuid>
+   <testCaseLink>
+      <guid>57bb268d-a5ff-408b-8721-d4e876845219</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Edit Leave Quota - Dotify (DDT)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>71038ed3-0ad6-4cd0-a378-853bb18aabbe</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/edit leave quota/leave quota</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>71038ed3-0ad6-4cd0-a378-853bb18aabbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>n_defaultQuota</value>
+         <variableId>e4333be4-9ddc-485d-8d24-425e37b48da4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71038ed3-0ad6-4cd0-a378-853bb18aabbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>n_balancePolicy</value>
+         <variableId>0a799114-c36d-4f1d-8933-e8ff999c6f8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71038ed3-0ad6-4cd0-a378-853bb18aabbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>n_carryOver</value>
+         <variableId>828612b8-9b68-40d7-a144-7d174a05436e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71038ed3-0ad6-4cd0-a378-853bb18aabbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>t_result</value>
+         <variableId>c65cf1fe-6ce1-48cf-9530-9db660af1c61</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
